@@ -1,6 +1,6 @@
 # VRAG - Vision-RAG Document Retrieval Lab
 
-VRAG is a document intelligence lab exploring OCR-free Vision-RAG, page-level retrieval, and multimodal PDF understanding.
+VRAG is an exploratory document intelligence lab for OCR-free Vision-RAG, page-level retrieval, and multimodal PDF understanding.
 
 The goal is to make document retrieval work on files where text-only RAG breaks down: scanned PDFs, tables, layout-heavy reports, charts, forms, and pages where meaning depends on visual structure.
 
@@ -58,4 +58,4 @@ The exact environment should be documented before treating this as a reproducibl
 
 ## Status
 
-Research lab / exploratory proof of work. The repo supports Vision-RAG and document intelligence claims, but it should not be read as a completed benchmark or production system.
+Exploratory lab / secondary repo. This is not a finished benchmark suite or production system. My main proof-of-work currently lives in Stateframe, PayRail, AI Systems Notes, and my portfolio.
